@@ -4,7 +4,8 @@
   "description": "Wisdom from the Tao of Programming",
   "main": "index.js",
   "scripts": {
-    "test": "npm test"
+    "test": "npm test",
+    "start": "node ."
   },
   "repository": {
     "type": "git",
