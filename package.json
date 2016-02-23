@@ -1,0 +1,27 @@
+{
+  "name": "taobot",
+  "version": "1.0.0",
+  "description": "Wisdom from the Tao of Programming",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/pieterjandesmedt/taobot.git"
+  },
+  "keywords": [
+    "tao",
+    "programming",
+    "wisdom"
+  ],
+  "author": "Pieter Jan De Smedt <pieterjan@digitalcomet.be>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pieterjandesmedt/taobot/issues"
+  },
+  "homepage": "https://github.com/pieterjandesmedt/taobot#readme",
+  "dependencies": {
+    "slackbots": "^0.5.1"
+  }
+}
