@@ -1,5 +1,5 @@
 var settings = {
-	token: 'xoxb-22739892000-D2P2hTlYC8Wcq4YWPxxzDTdz',
+	token: process.env.TAOBOT_API_KEY,
 	name: 'taobot'
 };
 
